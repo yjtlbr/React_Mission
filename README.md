@@ -12,6 +12,8 @@ challenge
 
 2차 미션 스크린샷
 Basic
+<img width="1680" alt="mission2" src="https://user-images.githubusercontent.com/93499124/157263221-7a4c5e1f-2d9c-45fd-995a-36b72dd2a9f6.png">
+
 
 challenge
 
