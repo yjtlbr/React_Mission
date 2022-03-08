@@ -1,0 +1,12 @@
+#원래는 개발환경 도커파일이라 dev로 해야함
+FROM node:16-alpine
+
+WORKDIR /usr/src/app
+
+COPY package.json ./
+
+RUN npm install
+
+COPY ./ ./
+
+CMD ["npm","run","start"]
