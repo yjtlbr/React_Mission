@@ -19,5 +19,6 @@ challenge
 
 3차 미션 스크린샷
 Basic
+![스크린샷 2022-03-22 오후 11 33 38(2)](https://user-images.githubusercontent.com/93499124/159506458-0abc007a-af1b-40a8-97e9-0e22314d181a.png)
 
 challenge
