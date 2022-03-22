@@ -23,6 +23,14 @@ export default function Row({ isLargeRow, title, id, fetchUrl }) {
     setMovieSelected(movie);
   };
 
+
+    window.addEventListener("click", function(e){
+      if (modalOpen && e.target.classList.value === "wrapper-modal") {
+        setModalOpen(false)
+      }
+    })
+  
+
   return (
     <section className="row">
       <h2>{title}</h2>
